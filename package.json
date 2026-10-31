@@ -1,0 +1,7 @@
+{
+  "name":"kareer360-frontend","version":"1.0.0","private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"@hookform/resolvers":"^5.0.1","lucide-react":"^0.503.0","next":"^16.4.3","react":"^19.1.0","react-dom":"^19.1.0","react-hook-form":"^7.56.1","zod":"^4.6.7"},
+  "devDependencies":{"@types/node":"^22.15.3","@types/react":"^19.1.2","@types/react-dom":"^19.1.2","autoprefixer":"^10.4.21","postcss":"^8.5.23","tailwindcss":"^3.4.17","typescript":"^5.8.3"}
+}
+
